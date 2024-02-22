@@ -2,3 +2,15 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+#my-header {
+  background-color: green;
+  color: ghostwhite;
+  padding: 40px;
+  text-align: center;
+}
+
+.country {
+  background-color: gray;
+  color: ghostwhite;
+  padding: 10px;
+}
